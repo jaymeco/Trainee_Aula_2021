@@ -20,3 +20,9 @@ Após inicializar o usuario, vc deve entrar na pasta do seu projeto e utilizar o
 git add .
 
 git commit -m "Initial Commit"
+
+git push -u origin master
+
+git clone https://github.com/jaymeco/Trainee_Aula_2021.git
+
+git pull origin master
